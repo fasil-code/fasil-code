@@ -21,5 +21,6 @@ Here are some ideas to get you started:
   <a href='https://twitter.com/FasilShafii'><img src='https://img.shields.io/badge/Twitter-%2326A5E4?style=for-the-badge&logo=twitter&logoColor=white'/></a>
 </p>
 
-<br/>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil-code)](https://github.com/anuraghazra/github-readme-stats)

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <a href='mailto:jameelibnkaisar@gmail.com'><img src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href='https://t.me/JameelKaisar'><img src='https://img.shields.io/badge/Twitter-%2326A5E4?style=for-the-badge&logo=twitter&logoColor=white'/></a>
+  <a href='https://twitter.com/FasilShafii'><img src='https://img.shields.io/badge/Twitter-%2326A5E4?style=for-the-badge&logo=twitter&logoColor=white'/></a>
 </p>
 
 

@@ -24,7 +24,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/fasilshafii
 [2]: https://www.linkedin.com/in/heinz-martin/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil-code)](https://github.com/anuraghazra/github-readme-stats)

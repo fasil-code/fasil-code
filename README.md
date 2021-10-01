@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1 align='center'>Connect with me :</h1>
 <!-- Actual text -->
 <p align='center'>
-  <a href='https://www.linkedin.com/in/JameelKaisar'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='https://www.linkedin.com/in/FasilShafi'><img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;
   <a href='mailto:jameelibnkaisar@gmail.com'><img src='https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   &nbsp;&nbsp;&nbsp;

@@ -1,5 +1,5 @@
 ### HELLO PEOPLE
-## I am Programmer and Developer
+## I am Programmer and Developer | Student and Learner 
 **fasil-code/fasil-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,3 +52,5 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fasil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fasil-code&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fasil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasil-code&layout=compact" height="192px"/></a>
   <br/>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Neeraj2002&theme=react-dark&hide_border=true" /></a>

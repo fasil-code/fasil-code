@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil-code)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
     
 </p>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neeraj2002&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2002&layout=compact" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fasil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fasil-code&show_icons=true&theme=tokyonight" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fasil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasil-code&layout=compact" height="192px"/></a>
   <br/>

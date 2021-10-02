@@ -44,7 +44,13 @@ Here are some ideas to get you started:
 <h1 align='center'>👨‍💻 🧰 Frameworks and libraries:</h1>
 
 <p align='center'>
-  #"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-21759B?logo=jquery&logoColor=white"></a>
+   <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-21759B?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     
 </p>
+# 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>

@@ -54,4 +54,5 @@ Here are some ideas to get you started:
   <br/>
   
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=fasil-code&theme=react-dark&hide_border=true" /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fasil's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=fasil-code&theme=react-dark&hide_border=true" /></a>

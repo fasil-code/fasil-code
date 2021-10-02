@@ -1,6 +1,6 @@
 ### HELLO PEOPLE
 ## I am Programmer and Developer | Student and Learner 
-**fasil-code/fasil-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 

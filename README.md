@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### 👨‍💻 Programming languages
+<h1 align='center'>👨‍💻 Programming languages:</h1>
 
 <p align='center'>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -39,4 +39,12 @@ Here are some ideas to get you started:
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   
 
+</p>
+
+<h1 align='center'>👨‍💻 🧰 Frameworks and libraries:</h1>
+
+<p align='center'>
+  #"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-21759B?logo=jquery&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
+    
 </p>

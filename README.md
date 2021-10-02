@@ -1,5 +1,5 @@
 ### HELLO PEOPLE
-## I am Programmer and Devloper
+## I am Programmer and Developer
 **fasil-code/fasil-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

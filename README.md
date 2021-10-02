@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Programming languages
 
-<p align='center>
+<p align='center'>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>

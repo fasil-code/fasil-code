@@ -4,10 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Data Structure and Algorithms
-- 🌱 I’m currently learning Data Structures and Development
-- 👯 I’m looking to collaborate on Front end and DSA
-- 💬 Ask me about :Trees,Stacks,HTML,CSS,Js
+
 
 - ⚡ Fun fact: Coding is fun
 <br/>
